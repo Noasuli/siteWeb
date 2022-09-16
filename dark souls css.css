@@ -1,0 +1,239 @@
+h1{
+   text-align: center; 
+   font-family: Arial, "Arial Black", "Times New Roman", serif; 
+   text-decoration: underline; 
+   color: 	
+   #8a8a8a7e; 
+}
+p{
+   text-indent: 20px; 
+   color: rgb (0,0,255); 
+}
+strong {
+   color: 	
+   #68686885; 
+   text-decoration: blink;
+}
+
+
+
+#Darksouls1 {
+
+  background-color: black; 
+}
+
+
+
+h1{
+   text-align: center; 
+   font-family: Arial, "Arial Black", "Times New Roman", serif; 
+   text-decoration: underline; 
+   color: 	
+   #FFFFFF; 
+}
+p{
+   text-indent: 20px; 
+   color: rgb (0,0,255); 
+}
+strong {
+   color: 	
+   #FFFFFF; 
+   text-decoration: blink;
+}
+
+
+
+#Darksouls1 {
+
+  background-color: black; 
+}
+
+
+
+#Darksouls1  {
+
+border: solid; 
+}
+
+#Darksouls1 {
+border: outset rgba(253, 145, 3, 0.774);
+}
+
+#Darksouls1 {
+
+
+ 
+  font-size: 30px;
+  text-decoration: none;
+  color: #fff;
+  float: center;
+
+}
+
+
+#Darksouls1 {
+
+
+  transition-property: opacity;
+  transition-duration: 250ms;
+  display: inline-block;
+  position: relative;
+  margin-right: 20px;
+  float: center;
+
+}
+
+
+
+  
+
+
+
+
+}
+
+
+body {background-image: url(https://www.publicdomainpictures.net/pictures/40000/nahled/black-background-1365087945eJf.jpg) }
+  #Darksouls 
+   .d1{
+       width: 576px;
+       height: 432px;
+       margin: 50px auto;
+       box-shadow: 0px 15px 10px -5px #777;
+       background-color: #EDEDED;
+       background-size: contain;
+       animation: fondu 15s ease-in-out infinite both;
+   }
+   .conteneur{
+       max-width: 576px;
+       margin: 50px auto;
+   }
+   .d2{
+       width: 100%;
+       height: 0px;
+       padding-top: 75%;
+       box-shadow: 0px 0px 10px #777;
+       background-color: #EDEDED;
+       background-size: contain;
+       animation: fondu 15s ease-in-out infinite both;
+   }
+   .d1:hover, .d2:hover{
+       animation-play-state: paused;
+   }
+   @keyframes fondu{
+     s
+   
+      width: 576px;
+      height: 432px;
+      margin: 50px auto;
+      box-shadow: 0px 15px 10px -5px #777;
+      background-color: #EDEDED;
+      background-size: contain;
+      animation: fondu 15s ease-in-out infinite both;
+  }
+  .conteneur{
+      max-width: 576px;
+      margin: 50px auto;
+  }
+  .d2{
+      width: 100%;
+      height: 0px;
+      padding-top: 75%;
+      box-shadow: 0px 0px 10px #777;
+      background-color: #EDEDED;
+      background-size: contain;
+      animation: fondu 15s ease-in-out infinite both;
+  }
+  .d1:hover, .d2:hover{
+      animation-play-state: paused;
+  }
+  @keyframes fondu{
+      0%{background-image: url("https://wallpaperaccess.com/full/2100978.jpg");}
+      33.33%{background-image: url("https://i.pinimg.com/originals/aa/03/63/aa036332688d2a634ee3ab2d08853e39.jpg");}
+      66.67%{background-image: url("https://live.staticflickr.com/7336/12159704274_09035d8f18_b.jpg");}
+      100%{background-image: url("https://live.staticflickr.com/2887/12159359643_8b4cf621d3_b.jpg");}
+  }
+
+  header
+  {
+       background-image: url(https://www.pngmart.com/files/7/Dark-Souls-Remastered-Transparent-PNG.png);
+  }
+   
+  <style>
+  #Darksouls  {
+    height:100px;
+    width:100px;
+    background-color:red;
+    opacity:0.5;
+    border:1px solid black;
+  }
+  #Darksouls  {
+    animation-name: heartbeat;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+  @keyframes heartbeat {
+    0%    { width:100px; }
+    50%   { width:200px; }
+    100%  { width:100px; }
+  }
+  <!DOCTYPE css>
+  <html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+    #Darksouls {
+        height:100px;
+        width:100px;
+        background-color:red;
+        opacity:0.5;
+        border:1px solid black;
+      }
+      #Darksouls {
+        animation-name: heartbeat;
+        animation-duration: 1s;
+        animation-iteration-count: infinite;
+      }
+      @keyframes heartbeat {
+        0%    { width:100px; }
+        50%   { width:200px; }
+        100%  { width:100px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div id='Darksouls'></div>
+  </body>
+  </html>
+  .d1{
+    width: 576px;
+    height: 432px;
+    margin: 50px auto;
+    box-shadow: 0px 15px 10px -5px #777;
+    background-color: #EDEDED;
+    background-size: contain;
+    animation: fondu 15s ease-in-out infinite both;
+}
+.conteneur{
+    max-width: 576px;
+    margin: 50px auto;
+}
+.d2{
+    width: 100%;
+    height: 0px;
+    padding-top: 75%;
+    box-shadow: 0px 0px 10px #777;
+    background-color: #EDEDED;
+    background-size: contain;
+    animation: fondu 15s ease-in-out infinite both;
+}
+.d1:hover, .d2:hover{
+    animation-play-state: paused;
+}
+@keyframes fondu{
+    0%{background-image: url("https://wallpaperaccess.com/full/2635959.jpg");}
+    33.33%{background-image: url("https://steamuserimages-a.akamaihd.net/ugc/932676246162375206/B450ABE8830E05F049C7999F6B9CA902C7C219C5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");}
+    66.67%{background-image: url("https://steamuserimages-a.akamaihd.net/ugc/1023948096537786779/4058808DFAE3891E01AE5A2C94B99936A209F7D1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");}
+    100%{background-image: url("https://images.alphacoders.com/278/thumb-1920-278051.jpg");}
+}
